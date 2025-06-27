@@ -1,22 +1,18 @@
 # Nexthikes-Project-6
-Here’s a simplified, human-friendly version of your `README.md` for GitHub. This version is written in a more natural tone, making it easier for readers to quickly understand what the project is, what it does, and how to use it:
-
----
-
-# 🧪 Sales Forecasting for Rossmann Pharmaceuticals
+🧪 Sales Forecasting for Rossmann Pharmaceuticals
 
 Welcome to the Sales Forecasting Project for Rossmann Pharmaceuticals!
 This project helps predict daily sales for pharmaceutical stores using machine learning and deep learning techniques. We also built web apps to make the predictions easy to use and tracked everything using modern MLOps tools.
 
 ---
 
-## 📌 What’s This Project About?
+ 📌 What’s This Project About?
 
 Rossmann sells medical products across various stores, and like any retail business, they need to predict how much they’ll sell. Our goal is to help them do just that—using historical data (like past sales, promotions, holidays, etc.) and turning it into smart, data-driven forecasts.
 
 ---
 
-## 🗂️ What's Inside the Project?
+ 🗂️ What's Inside the Project?
 
 Here's a quick overview of the folders and files you'll find:
 
@@ -107,8 +103,8 @@ streamlit run src/deployment/streamlit_app.py
  📊 MLOps Tools Used
 
 * **MLFlow** – Tracks experiments, parameters, and results.
-* **DVC** – Tracks versions of datasets and models.
-* **Docker** – Package the app and run it anywhere.
+* DVC – Tracks versions of datasets and models.
+* Docker – Package the app and run it anywhere.
 
  🎯 How to Use
 
